@@ -20,6 +20,6 @@ public class Main {
         System.out.println(rectangle.getArea());
         Car motorcar = new Car("Benz", 120);
         motorcar.getSpeed();
-
+        // 測試GitHub
     }
 }
